@@ -1,0 +1,6 @@
+.batch-wrap{display: flex;border-bottom: 1px solid #d7d1d1;flex-wrap: wrap;}
+.BatchDate {padding: 15px;}
+.BatchDate span {font-size: 16px;font-weight: bold;text-align: center;color: #4a4a4a;display: flex;align-items: center;justify-content: center;border-radius: 0px;width: 100%;border-right: 3px solid #0d3882;padding-right: 20px;}
+.BatchWay {padding: 15px;}
+.BatchWay span {display: inline-block;width: 100%;font-size: 14px;line-height: normal;color: #4a4a4a;font-weight: 600;text-transform: uppercase;}
+.BatchWay span.BatchLocation {text-transform: none;display: inline-block;width: 100%;font-size: 13px;font-weight: 600;line-height: 1.4;color: #0d3882;padding: 0;margin: 0;}

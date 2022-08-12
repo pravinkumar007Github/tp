@@ -1,0 +1,133 @@
+
+.course-content-wrap {
+    border: 1px solid #ddd;
+    margin-top: 15px;
+    overflow: hidden;
+    max-height: 1150px;
+}
+
+.heightAuto {
+    max-height: 12000px;
+}
+
+.course-content-topic {
+    background: #0c3448;
+    display: block;
+    padding: 10px;
+    font-weight: 900;
+    letter-spacing: 1px;
+    color: #fff;
+}
+
+.course-content-list {
+    padding: 20px;
+}
+
+
+#showmore1 {
+    display: block;
+    position: relative;
+    margin-bottom: 25px;
+}
+
+
+#showmore2 {
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgba(255,0,0,0) 0%, #eee 100%);
+    position: absolute;
+    width: 100%;
+    top: -127px;
+    height: 156px;
+    box-shadow: px 1px 5px #eee !important;
+}
+
+#showmore {
+    color: #002858;
+    cursor: pointer;
+    margin-top: 110px;
+    border-radius: 2px;
+    border-width: 0;
+    background: #fff;
+    text-shadow: none;
+    font-weight: 700;
+    transition: all .2s;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 14px;
+    line-height: 17px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    box-shadow: 0px 1px 2px grey !important;
+    display: inline-block;
+    position: relative;
+    outline: 0;
+    overflow: hidden;
+    border: 1px solid #002858;
+    text-align: center;
+    text-transform: uppercase;
+    width: 52%;
+}
+
+.sidebarTitle {
+    background: linear-gradient( 89.72deg, #0d3882 10%, #35adc5 94%);
+    font-size: 22px !important;
+    padding: 15px 18px !important;
+    color: #fff !important;
+    border-radius: 10px 10px 0 0;
+    line-height: 1.5;
+}
+
+.sidebarBox {
+    background: #FFF;
+    transition: all .8s cubic-bezier(.22, .67, .43, 1.22) .2s;
+    border-radius: 10px 10px 0 0;
+    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%), 0 3px 1px -2px rgb(0 0 0 / 20%);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.ImpactBox{border-radius: 15px;margin-left: auto;margin-right: auto;display: block;box-shadow: 1px 1px 10px #c3c3c3;padding: 15px;background-color: #fff;margin: 10px;}
+.ImpactBox h6{letter-spacing: 2px;text-align: center;}
+.ImpactBox .fa{text-align: center;margin-left: auto;margin-right: auto;display: block;font-size: 50px !important;}
+.ImpactBox p{text-align: justify;font-size: 14px;}
+
+.SidebarForm {
+    padding: 25px;
+}
+
+.formbox {
+    border-bottom: 1px solid #c3c3c3 !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    margin-bottom: 20px !important;
+}
+
+input[type="text"], input[type="email"] {
+    width: 100%;
+    box-shadow: none !important;
+}
+
+select {
+    color: #757575 !important;
+    border: 1px solid #F0F0F0;
+    background: #fff;
+    width: 100%;
+    box-shadow: inset 0 0 0 1px #fff, 1px 2px 0px #f9f9f9;
+}
+
+.formbtn {
+    border-radius: 4px;
+    font-size: 14px !important;
+    font-weight: 700;
+    padding: 10px !important;
+    line-height: 28px;
+    width: 100%;
+    letter-spacing: 2px;
+}
+
+.fulllength h3, .fulllength p, .fulllength ul li {color: #FFF;}
+.fulllength .btn {width: 100%; margin: 5%;}
+p{text-align: justify;}
+.card-body .btn{width: 100%;}
+.left-border {border-left: #1a1a37 solid;padding-left: 10px;}
